@@ -4,6 +4,7 @@
 
 int main(void)
 {
+    int i = 0;
     InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Sunshine");
     SetTargetFPS(60);
 
