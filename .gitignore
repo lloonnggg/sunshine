@@ -21,8 +21,7 @@ mono_crash.*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
-x86/
+
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -375,3 +374,6 @@ imgui-master
 !game/assets
 !game/assets/*
 !game/assets/**/*
+
+# Exclude the folder named "Debug"
+!Debug/
