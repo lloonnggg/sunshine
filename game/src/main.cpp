@@ -1,3 +1,7 @@
+//LONG HO 101411283
+//DUC TRAN 101432125
+//VALI ALASGAROV 101399073
+
 #include "raylib.h"
 #include "raymath.h"
 #include <vector>
