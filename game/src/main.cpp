@@ -15,6 +15,7 @@ public:
     float maxSpeed;
     float maxAcceleration;
 
+
     Fish(float xPos, float yPos, float maxSpeed, float maxAcceleration)
         : position({ xPos, yPos }), velocity({ 0, 0 }), maxSpeed(maxSpeed), maxAcceleration(maxAcceleration)
     {
